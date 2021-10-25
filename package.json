@@ -1,0 +1,26 @@
+{
+  "name": "nodepracticeapi",
+  "version": "1.0.0",
+  "description": "a practice application for getting used to node rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConorCasey99/NodeAPIPracticeApp.git"
+  },
+  "author": "Conor Casey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConorCasey99/NodeAPIPracticeApp/issues"
+  },
+  "homepage": "https://github.com/ConorCasey99/NodeAPIPracticeApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
